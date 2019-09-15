@@ -1,2 +1,2 @@
-# dand_wrangle_analyze_data
+# dand_gathering_data
 Udacity DAND - Gathering Data (Lesson 2)
